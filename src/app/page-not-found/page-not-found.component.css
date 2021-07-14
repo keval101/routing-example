@@ -1,0 +1,8 @@
+.pageNot{
+  width: 100%;
+  height: 70vh;
+  flex-direction: column;
+}
+h1{
+  font-size: 156px;
+}
